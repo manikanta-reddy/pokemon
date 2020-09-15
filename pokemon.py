@@ -1,4 +1,4 @@
-# project 38: Pokemon Simulation App
+
 import random
 
 
